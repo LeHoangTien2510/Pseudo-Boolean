@@ -1,0 +1,149 @@
+MERTENS.IN2 1
+#Var: 126
+#Cons: 738
+#sol: 4
+#solbb: 3
+Time taken: 0.003000020980834961 seconds
+ 
+MERTENS.IN2 2
+#Var: 266
+#Cons: 2495
+#sol: 13
+#solbb: 12
+Time taken: 0.007006168365478516 seconds
+ 
+BOWMAN.IN2 
+#Var: 360
+#Cons: 2387
+#sol: 15
+#solbb: 7
+Time taken: 0.007005453109741211 seconds
+ 
+JAESCHKE.IN2 1
+#Var: 180
+#Cons: 614
+#sol: 2
+#solbb: 1
+Time taken: 0.001998424530029297 seconds
+ 
+JAESCHKE.IN2 2
+#Var: 351
+#Cons: 3639
+#sol: 25
+#solbb: 24
+Time taken: 0.012995719909667969 seconds
+ 
+JACKSON.IN2 1
+#Var: 242
+#Cons: 1688
+#sol: 6
+#solbb: 5
+Time taken: 0.004007577896118164 seconds
+ 
+JACKSON.IN2 2
+#Var: 495
+#Cons: 8261
+#sol: 26
+#solbb: 23
+Time taken: 0.04684329032897949 seconds
+ 
+MANSOOR.IN2 1
+#Var: 1100
+#Cons: 21752
+#sol: 6
+#solbb: 5
+Time taken: 0.036795616149902344 seconds
+ 
+MANSOOR.IN2 2
+#Var: 2090
+#Cons: 65276
+#sol: 10
+#solbb: 7
+Time taken: 0.12697672843933105 seconds
+
+MITCHELL.IN2 1
+#Var: 756
+#Cons: 7035
+#sol: 141
+#solbb: 110
+Time taken: 0.0787210464477539 seconds
+ 
+MITCHELL.IN2 2
+#Var: 1701
+#Cons: 40950
+#sol: 53
+#solbb: 50
+Time taken: 0.485720157623291 seconds
+
+ROSZIEG.IN2 1
+#Var: 950
+#Cons: 23785
+value: 242
+#sol: 346
+#solbb: 315
+Time taken: 0.31843018531799316 seconds
+
+ROSZIEG.IN2 2
+#Var: 1700
+#Cons: 50794
+value: 118
+#sol: 78
+#solbb: 54
+Time taken: 0.9368183612823486 seconds
+ 
+BUXEY.IN2 2
+#Var: 2929
+#Cons: 160594
+value: 184
+#sol: 54
+#solbb: 53
+Time taken: 4.687330961227417 seconds
+ 
+SAWYER.IN2 1
+#Var: 1920
+#Cons: 104935
+value: 358
+#sol: 86
+#solbb: 85
+Time taken: 0.2104487419128418 seconds
+ 
+SAWYER.IN2 2
+#Var: 3030
+#Cons: 186381
+value: 192
+#sol: 94
+#solbb: 83
+Time taken: 7.820242881774902 seconds
+ 
+GUNTHER.IN2 1
+#Var: 3290
+#Cons: 258801
+value: 406
+#sol: 3
+#solbb: 2
+Time taken: 0.31353259086608887 seconds
+ 
+GUNTHER.IN2 1
+#Var: 4095
+#Cons: 348773
+value: 276
+#sol: 110
+#solbb: 94
+Time taken: 0.9933240413665771 seconds
+ 
+BUXEY.IN2 1
+#Var: 1856
+#Cons: 86319
+value: 315
+#sol: 16537
+#solbb: 6774
+Time taken: 472.47886538505554 seconds
+
+HESKIA.IN2 1
+#Var: 7952
+#Cons: 1167737
+value: 229
+#sol: 6000
+#solbb: 2655
+Time taken: 2204.496968984604 seconds
+ 
